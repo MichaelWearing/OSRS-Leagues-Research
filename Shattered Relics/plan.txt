@@ -8,39 +8,9 @@ T3 = Hard task
 -----
 
 The plan:
-- Complete the league tutorial
--- (T1!) Open the Leagues Menu
--- (T1!) Complete the Leagues Tutorial
-- Pickpocket men at Catherby until 28 coin pouches
--- (T1!) Pickpocket a Citizen
--- (T1!) Achieve Your First Level Up
--- (T1!) Achieve Your First Level 5
--- (T1!) Open 28 Coin Pouches At Once
-- Pick 1 wheat northeast
--- (T1!) Pick wheat in Catherby
-- Buy bucket from farming shop
-- Talk to banker
--- (T1!) Talk to a banker
-# BANK: Bank everything, keep 1 bucket, 1 pot, 1 wheat
-- Take-from beehive
--- (T1!) Get stung by bees
-- Make a pot of flour at Ardy windmill
--- (T1!) Make some Flour 
-- Unlock Ardougne waystone
-- Steal cakes and bank them in ardy until lvl 20 thieving
--- (T1!) Steal a chocolate slice
--- (T1!) Achieve Your First Level 10
--- (T1!) Achieve Your First Level 20
 # BANK: Bring mage weapon, all coins, bronze pickaxe, and 5 cakes
 # UNLOCK SKILL: Agility
-- Kill a goblin at fishing guild (or do at Lumbridge later)
--- (T1!) Defeat a Goblin
-- Optional: Buy poison chalice from Stankers
--- (T1!) Drink a poison chalice
 - Go to Tree gnome stronghold
--- (T1!) Visit the tree gnome stronghold
-- Train agility until level 10
--- (T1!) Complete the gnome stronghold agility course
 - Talk to King Shareen and start The Grand Tree (1, 2)
 - Buy 2 pot of flour, 2 bucket of milk, 4 onions, 1 knife from Hudo (northwest)
 - Minigame teleport to Clan Wars
